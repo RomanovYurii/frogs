@@ -1,7 +1,11 @@
 import React from 'react';
 import './Legend.styles.scss';
+import { useDispatch } from 'react-redux';
+import { jump, reproduce } from '../Lake/rdx/lakeReducer';
 
 const Legend = () => {
+	const dispatch = useDispatch();
+
 	return (
 		<div className="legend">
 			<h3>Legend</h3>
@@ -17,10 +21,16 @@ const Legend = () => {
 			</ul>
 
 			<h3>Actions</h3>
-			<button type="button" id="jump">
+
+			<button type="button" id="jump" onClick={() => dispatch(jump())}>
 				Jump
 			</button>
-			<button type="button" id="reproduce">
+
+			<button
+				type="button"
+				id="reproduce"
+				onClick={() => dispatch(reproduce())}
+			>
 				Reproduce
 			</button>
 		</div>
