@@ -31,9 +31,9 @@ function App() {
 
 			<table id="lake">
 				<thead>
-				<tr>
-					<th colSpan="10">Lake</th>
-				</tr>
+					<tr>
+						<th colSpan="10">Lake</th>
+					</tr>
 				</thead>
 				<tbody>
 				<tr>
@@ -87,267 +87,267 @@ function App() {
 							<input type="checkbox"/>
 						</label>
 					</td>
-				</tr>
-				<tr>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-				</tr>
-				<tr>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-				</tr>
-				<tr>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-				</tr>
-				<tr>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-				</tr>
-				<tr>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-					<td>
-						<label>
-							<input type="checkbox"/>
-						</label>
-					</td>
-				</tr>
+					</tr>
+					<tr>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+						<td>
+							<label>
+								<input type="checkbox"/>
+							</label>
+						</td>
+					</tr>
 				</tbody>
 			</table>
 
